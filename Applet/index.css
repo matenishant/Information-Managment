@@ -1,0 +1,182 @@
+#main{
+height:auto;
+width:80%;
+background-color:#000000;
+margin-top: 20px;
+}
+
+#header{
+height:70px;
+width:100%;
+background-color:#15317E;
+padding:0px;
+float:left;
+}
+
+#header-left{
+height:70px;
+width:20%;
+float:left;
+}
+
+#header-mid{
+height:70px;
+width:50%;
+float:left;
+color:#FFFFFF;
+vertical-align:text-top;
+}
+
+
+
+h1{
+margin-top:10px;
+text-shadow:2px 2px 2px;
+}
+
+#header-ryt{
+height:70px;
+width:30%;
+float:left;
+
+}
+#navigation{
+height:40px;
+width:100%;
+background-color:#130900;
+float:left;
+clear:both;
+padding-top:0px;
+margin-top:0px;
+}
+
+
+#navigation ul li{
+font-size:17px;
+color:#FF0000;
+}
+
+#nav-list{
+list-style:none;
+width:100%;
+margin-top:0px;
+float:left;
+}
+
+#nav-list a:link{
+color:#F00;
+text-decoration:none;
+}
+
+#nav-list a:visited{
+color:#cyan;
+}
+
+#nav-list li{
+border:groove;
+margin:2px;
+float:left;
+width:8%;
+background-color:#FFF;
+font-size:22px;
+text-decoration:none;
+margin-top:2 px;
+margin-right:10px;
+padding:2px;
+}
+
+
+#content
+{
+height:400px;
+width:100%;
+background-color:#CCCCCC;
+float:left;
+clear:both;
+color:FFFFFF;
+}
+
+#news
+{
+	height:400px;
+	width:20%;
+	float:left;
+	background-image:url(images/back2.jpg);
+	background-position:center;
+	padding:0px;
+}
+
+
+#news a:link{
+color:pink;
+}
+
+#news a:visited{
+color:red;
+}
+
+#news ul{
+list-style:none;
+margin:0px;
+padding:0px;
+}
+
+#news ul li{
+
+}
+#imags{
+height:400px;
+	width:60%;
+	background:#99CC33;
+	float:left;
+}
+
+
+.in{
+height:30px;
+width:230px;
+border-radius:7px;
+padding:2px;
+padding-left:7px;
+}
+
+#login
+{
+	height:400px;
+	width:20%;
+	background:#99CC99;
+	float:left;
+	background-image:url(images/back3.jpg);
+}
+#blog{
+
+height:300px;
+width:100%;
+background-color:#CCCCCC;
+clear:both;
+float:left;
+}
+
+#tchr{
+height:300px;
+width:50%;
+background-color:#993399;
+float:left;
+}
+
+
+#stud{
+height:300px;
+width:50%;
+background-color:#CC00CC;
+float:left;
+}
+
+
+#footer{
+height:60px;
+width:100%;
+background-color:#CCCCCC;
+float:left;
+clear:both;
+}
